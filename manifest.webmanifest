@@ -1,8 +1,8 @@
 {
   "name": "八股文库",
-  "start_url": "/",
+  "start_url": "/idux",
   "theme_color": "#2196f3",
   "display": "standalone",
   "lang": "zh",
-  "scope": "/"
+  "scope": "/idux"
 }
