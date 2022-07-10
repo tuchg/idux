@@ -1,0 +1,8 @@
+{
+  "name": "八股文库",
+  "start_url": "/",
+  "theme_color": "#2196f3",
+  "display": "standalone",
+  "lang": "zh",
+  "scope": "/"
+}
